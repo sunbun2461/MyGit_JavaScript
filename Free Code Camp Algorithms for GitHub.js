@@ -1,4 +1,4 @@
-Free Code Camp Algorithms for GitHubsfff
+Free Code Camp Algorithms for GitHub
 -------------------------------------
 
 		// The following are free code camps basic and intermediate algorithms I am working through a second time. They will be placed here only after I have completed them without help and can fully understand and explain them to a five year old ;)
